@@ -12,4 +12,32 @@ code {
   code { font-family: 'Fira Code VF', monospace; }
 }
  
+*:target { 
+	background: darkgray; 
+}
 
+pre {
+    text-align: center;
+    font-size: 16px;
+    font-size: 1vw;
+}
+
+/* unvisited link */
+a:link {
+  color: #eb0085;
+}
+
+/* visited link */
+a:visited {
+  color: #8d00eb;
+}
+
+/* mouse over link */
+a:hover {
+  color: #eb004a;
+}
+
+/* selected link */
+a:active {
+  color: #eb7d00;
+}
