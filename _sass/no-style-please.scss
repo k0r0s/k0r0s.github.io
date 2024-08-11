@@ -14,6 +14,7 @@ body[a="dark"] { @include dark-appearance; }
 @media (prefers-color-scheme: dark) {
   body[a="auto"] { @include dark-appearance; }
 }
+
 // -------------------------------------------- //
 
 // bg color is also needed in html in order to
@@ -25,12 +26,18 @@ html { height: 100%; }
 
 body {
   color: black;
-  font-family: monospace;
-  font-size: 16px;
-  line-height: 1.4;
+  font-family: Fira Code, Monaco, Consolar, Ubuntu Mono, monospace;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.54;
+  letter-spacing: -.02em;
   margin: 0;
   min-height: 100%;
+  font-smooth: always;
+  text-rendering: optimizeLegibility;
   overflow-wrap: break-word;
+  font-feature-settings: "liga","tnum","case","calt","zero","ss01","locl","calt";
+  font-variant-ligatures: contextual;
 }
 
 .post-meta { text-align: right; }
@@ -55,8 +62,8 @@ hr {
   text-align: center;
   border: 0;
 
-  &:before { content: '/////' }
-  &:after { content: attr(data-content) '/////' }
+  &:before { content: ' :::::::::: ' }
+  &:after { content: attr(data-content) ' :::::::::: ' }
 }
 
 table { width: 100%; }
