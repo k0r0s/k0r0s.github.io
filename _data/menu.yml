@@ -17,11 +17,9 @@ entries:
       show_more_url: archive.html
 
   - title: Short stories
-    staff_list:
-      limit: 5
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: archive.html
+    entries:
+      - title: (Esp) Surgit
+        url: stories/surgit
 
   - title: rss
     url: feed.xml
@@ -29,13 +27,8 @@ entries:
   - title: More to Read
     url:  more_to_read
 
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: about
-            url: about
+  - title: about
+    url: about
 
 # - title: PRO TIP
 #    entries:

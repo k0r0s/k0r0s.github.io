@@ -4,8 +4,7 @@ email: placeholderemail@gmail.com # email of site's author
 url: https://k0r0s.github.io # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  <p>A lightweight blogposting webpage made with Jekyll.
-  <br>From a CCRU fan and accelerationist.</p>
+  A lightweight blogposting webpage made with Jekyll.
 
 permalink: /:slug.html
 

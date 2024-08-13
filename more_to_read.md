@@ -8,6 +8,7 @@ Great blogs to check out:
 - [Happy Hour at Hippel's](https://happyhourathippels.wordpress.com)
 - [Revolting Bodies](https://revoltingbodies.com)
 - [Split Infinities](https://splitinfinities.substack.com/)
+- [Xenogothic](https://xenogothic.com/)
 
 
 Book publishers I like: 
