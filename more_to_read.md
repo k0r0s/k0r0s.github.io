@@ -16,6 +16,7 @@ Book publishers I like:
     - [Urbanomic](https://www.urbanomic.com/)
     - [Repeater Books](https://repeaterbooks.com/books/)
     - [Minor Compositions](https://www.minorcompositions.info/)
+    - [Zer0 Books - Collective Ink](https://www.collectiveinkbooks.com/zer0-books/)
 - [Esp]:
     - [Caja Negra](https://cajanegraeditora.com.ar/)
     - [Materia Oscura](https://materiaoscuraeditorial.com/)
