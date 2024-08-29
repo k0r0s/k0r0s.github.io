@@ -29,6 +29,10 @@ pre {
     font-size: 1vw;
 }
 
+.responsive {
+	max-width: 100%;
+	height: auto
+}
 /* unvisited link */
 a:link {
   color: $link-color;
