@@ -2,5 +2,5 @@
 
 #### Features
 - Jekyll
-- no style, please theme
-
+- forked from: no style, please theme
+- (but I want to be able to make it private)
