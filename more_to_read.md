@@ -21,3 +21,4 @@ Book publishers I like:
     - [Caja Negra](https://cajanegraeditora.com.ar/)
     - [Materia Oscura](https://materiaoscuraeditorial.com/)
     - [Ediciones Extáticas](https://edicionesextaticas.noblogs.org/)
+    - [Anagrama](https://www.anagrama-ed.es/)
