@@ -17,6 +17,7 @@ Book publishers I like:
     - [Repeater Books](https://repeaterbooks.com/books/)
     - [Minor Compositions](https://www.minorcompositions.info/)
     - [Zer0 Books - Collective Ink](https://www.collectiveinkbooks.com/zer0-books/)
+    - [Verso Books](https://www.versobooks.com/)
 - [Esp]:
     - [Caja Negra](https://cajanegraeditora.com.ar/)
     - [Materia Oscura](https://materiaoscuraeditorial.com/)
