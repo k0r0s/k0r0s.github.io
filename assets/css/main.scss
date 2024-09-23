@@ -25,19 +25,13 @@ code {
 
 pre {
     text-align: center;
-    font-size: 13px;
+    font-size: 16px;
     font-size: 1vw;
-}
-
-@media only screen{
-	.body{
-	   font-size: 13px;
-	}
 }
 
 .responsive {
 	max-width: 100%;
-	height: auto;
+	height: auto
 }
 /* unvisited link */
 a:link {
