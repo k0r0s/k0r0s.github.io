@@ -2,6 +2,7 @@
 layout: post
 title: "On emancipating AI and the looming Orwellian wave"
 category: blog
+author: Ortega y Gasset
 ---
 _The algorithmic Ministry of Truth and the subtle spread of Newspeak_
 
@@ -34,11 +35,13 @@ A esto, el info-capitalismo responde delcarando ilegal copiar ciertos tipos de d
 
 Pero parece que la última ola mesiánica, _el advenimiento de la inteligencia artificial_, ha encontrado una nueva **forma de vincularse con la escasez**. Al hilo con la definición de antes, el desarrollo de modelos de IA se puede entender como "conjuntos de instrucciones que son capaces de generar sus propias instrucciones" y con esa lógica serían reproducibles para todos _ad infinitum_. Sin embargo, lo que sucede con los Large Language Models como GPT, Claude, Llama... o las IAs generativas como Midjourney, Dall-E, Sora... no es para nada como un PDF o una App; aunque un individuo tenga la arquitectura a entrenar no tiene los medios (``Datos y potencia de cálculo`` -**Data and Compute**-)  para hacerlo. Y así se vincula está tecnología informática de nuevo a lo material donde se aplica el principio de escasez. 
 
-- _Tanto la arquitectura como los datos, ambos fruto del ingenio humano._
 
 Es cierto que para ejecutar el _Software_ se requiere _Hardware_ y que eso ya erige una primera pared en accesibilidad y un vínculo material. Pero ese efecto es exagerado por órdenes de magnitud para esta tecnología (Si no es el sumo ejemplo del mercado). No solo es que ahora sea imposible para un individuo entrenar localmente un modelo así, sino que también resulta virtualmente imposible para pequeños grupos de investigación (el proceso local de inferencia también requeriría de un equipo fuera de lo ordinario con mucha memoria RAM y CPU clock alto).
 
 La inclusión de funciones de activación no lineales y el algoritmo de retropropagación (_Backpropagation_) a las redes neuronales supusieron un punto de inflexión en el desarrollo del ámbito de inteligencia artificial y dieron de nuevo un empujón a un campo de la ingeniería informática que prometía mucho pero que en ese momento estaba pasando un periodo yermo de avances. No obstante, lo que sorprendió a todo el mundo (los LLMs y las IAs generativas), fruto también de nuevas técnicas como transformers y redes convolucionales, no hubieran podido alcanzar tal embergadura y resultados si no fuera por los miles de datos recopilados de internet producto de la dádiva humana. 
+
+
+- _Tanto la arquitectura como los datos, ambos fruto del ingenio humano._
 
 A mis ojos, la tecnología ha tomado la dirección obvia de crecimineto natural haciendo uso de la disponibilidad inmediata de las gargantuescas cantidades de datos en internet (tanto corpus de texto como imágenes y vídeos). ``¿Pero no hubiera sido de mayor rendimiento económico, intentar aplicar esta tecnología primero a trabajos repetitivos y aburridos en favor a la automatización total en lugar de producir un desplazamiento de empleos en los sectores intelectuales y cognitivos (arte audiovisuales/literario/consejería legal/medicina/software...)?`` 
 

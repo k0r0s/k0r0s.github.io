@@ -2,6 +2,7 @@
 layout: post
 title: "My understanding of accelerationism"
 category: blog
+author: k0r0s
 ---
 
 ### The disregard and fear of accelerationism 

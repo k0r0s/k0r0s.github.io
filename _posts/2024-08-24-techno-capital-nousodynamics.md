@@ -2,6 +2,7 @@
 layout: post
 title: "Techno-capital Nousodynamics"
 category: blog
+author: k0r0s
 ---
 <font size="-1"><em>En la Antigua Grecia, el nous (en griego: νοῦς) (intelecto) correspondía al espíritu, la parte más elevada y divina del alma. Se busca el juego de palabras del tripartito del alma de Platón: <br>
 - nous («intelecto», «razón»), que es o debería ser la parte controladora que subyuga a los apetitos con la ayuda de thumos.<br>
