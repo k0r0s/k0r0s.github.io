@@ -34,16 +34,36 @@ A esto, el info-capitalismo responde delcarando ilegal copiar ciertos tipos de d
 
 Pero parece que la última ola mesiánica, _el advenimiento de la inteligencia artificial_, ha encontrado una nueva **forma de vincularse con la escasez**. Al hilo con la definición de antes, el desarrollo de modelos de IA se puede entender como "conjuntos de instrucciones que son capaces de generar sus propias instrucciones" y con esa lógica serían reproducibles para todos _ad infinitum_. Sin embargo, lo que sucede con los Large Language Models como GPT, Claude, Llama... o las IAs generativas como Midjourney, Dall-E, Sora... no es para nada como un PDF o una App; aunque un individuo tenga la arquitectura a entrenar no tiene los medios (``Datos y potencia de cálculo`` -**Data and Compute**-)  para hacerlo. Y así se vincula está tecnología informática de nuevo a lo material donde se aplica el principio de escasez. 
 
-Es cierto que para ejecutar el _Software_ se requiere _Hardware_ y que eso ya erige una primera pared en accesibilidad y un vínculo material. Pero ese efecto es exagerado por órdenes de magnitud para esta tecnología (Si no es el sumo ejemplo del mercado). No solo es que ahora sea imposible para un individuo entrenar localmente un modelo así (el proceso local de inferencia también requeriría de un equipo fuera de lo ordinario con mucha memoria RAM y CPU clock alto), sino que también resulta virtualmente imposible para pequeños grupos de investigación.
+- _Tanto la arquitectura como los datos, ambos fruto del ingenio humano._
 
-A mis ojos, la tecnología ha tomado la dirección obvia de crecimineto natural haciendo uso de la disponibilidad inmediata de las gargantuescas cantidades de datos en internet (tanto corpus de texto como imágenes y vídeos). La inclusión de funciones de activación no lineales y el algoritmo de retropropagación (_Backpropagation_) a las redes neuronales supusieron un punto de inflexión en el desarrollo del ámbito de inteligencia artificial y dieron de nuevo un empujón a un campo de la ingeniería informática que prometía mucho pero que en ese momento estaba pasando un periodo yermo de avances. No obstante, lo que sorprendió a todo el mundo (los LLMs y las IAs generativas), fruto también de nuevas técnicas como transformers y redes convolucionales, no hubieran podido alcanzar tal embergadura y resultados si no fuera por nuestro conocimiento como "dato de entrenamiento". 
+Es cierto que para ejecutar el _Software_ se requiere _Hardware_ y que eso ya erige una primera pared en accesibilidad y un vínculo material. Pero ese efecto es exagerado por órdenes de magnitud para esta tecnología (Si no es el sumo ejemplo del mercado). No solo es que ahora sea imposible para un individuo entrenar localmente un modelo así, sino que también resulta virtualmente imposible para pequeños grupos de investigación (el proceso local de inferencia también requeriría de un equipo fuera de lo ordinario con mucha memoria RAM y CPU clock alto).
 
-_Tanto la arquitectura y los datos, frutos del ingenio humano. ¿Cuál tiene mayor ponderación en las prestaciones de los modelos?_
+La inclusión de funciones de activación no lineales y el algoritmo de retropropagación (_Backpropagation_) a las redes neuronales supusieron un punto de inflexión en el desarrollo del ámbito de inteligencia artificial y dieron de nuevo un empujón a un campo de la ingeniería informática que prometía mucho pero que en ese momento estaba pasando un periodo yermo de avances. No obstante, lo que sorprendió a todo el mundo (los LLMs y las IAs generativas), fruto también de nuevas técnicas como transformers y redes convolucionales, no hubieran podido alcanzar tal embergadura y resultados si no fuera por los miles de datos recopilados de internet producto de la dádiva humana. 
+
+A mis ojos, la tecnología ha tomado la dirección obvia de crecimineto natural haciendo uso de la disponibilidad inmediata de las gargantuescas cantidades de datos en internet (tanto corpus de texto como imágenes y vídeos). ``¿Pero no hubiera sido de mayor rendimiento económico, intentar aplicar esta tecnología primero a trabajos repetitivos y aburridos en favor a la automatización total en lugar de producir un desplazamiento de empleos en los sectores intelectuales y cognitivos (arte audiovisuales/literario/consejería legal/medicina/software...)?`` 
+
+La convicción actual -infocéntrica- de que "donde la mayor riqueza se genera es en la producción de conocimiento" da respuesta a la pregunta. No obstante, aunque la rentabilidad decreciente que muestran los negocios basados en IA frente las masivas cantidades de inversión no suponen un obstáculo para la fe ciega de Sam Altman, es posible que nos estemos acercando a una burbuja.[^8],[^9]
+
+Con toda innovación tecnológica siempre se da una agilización y optimización de los procesos o una modernización de la técnica, y hasta relativamente hace poco la ola de creación de nuevas industrias y empleos seguía de cerca el bajón inicial del excedente de población y desempleo, pero después de una recesión la tendencia de _una "recuperación sin creación de empleo"_ (_jobless recoveries_) está más presente que nunca.
+
+> term “jobless recovery” describes an economic recovery where output recovers—and even expands—yet employment growth remains anemic. While the effects of these prolonged recoveries are significant—from increased crime to a lifetime reduction in wages—they are not well understood.[^7] 
+
+El caso de que después de una crisis el PIB del país se recupera -y hasta aumenta- mientras que el desempleo se mantiene.
+
+
+Es más, autores que han escrito sobre el concepto de "_La paradoja de la productividad_" (Robert Solow, Erik Brynjolfsson, Daron Acemoglu & Pascual Restrepo) argumentan que existe un desfase temporal hasta la cosecha de los beneficios de la automatización de procesos y que se estima que la automatización actual no se ha traducido en aumentos proporcionales de la productividad.
+
+Títular, noticia de última hora: Hasta ahora la automatización y robotización de la industria ha estado atizando el empleo de los trabajadores "_blue collar_", pero ahora -se nos acabó lo bueno, se nos acabó el chollo-,  ahora, es el turno del trabajador "_white collar_". 
+
+Volviendo a la pregunta de antes, se puede ``argumentar`` que la industria siempre ha tenido una actitud reaccionaria ante este tipo de cambios: 
+1. Desplazamiento de empleos y dificultad para adaptarse y adquirir nuevas abilidades para secotres que se abren con las nuevas tecnologías. 
+2. Seguridad y privacidad de la industria pesada. Miedo a la evolución de los modelos. -> siguiente sección.
 
 ### What kind of singularity should we expect?
 
 Hay posiciones antipódicas sobre el riesgo que supone la inteligencia artificial. Por un lado argumentando que la posibilidad de la singularidad y de la subyugación de la humanidad por inteligencias artificiales generales es inminente están autores como Roman Yampolskiy, y por el otro lado entre los autores que argumentan que esa posibillidad de sentiencia (al menos con la arquitectura y enfoque actual) es pura fantasía se encuentra Matteo Pasquinelli.
 
+Más bien la singularidad que vendrá antes el la ``crisis del lenguaje`` [Eric Sadin].
 
 -
 ---
@@ -71,3 +91,7 @@ Ya a ojos de Fisher se estaba dando una cancelación del futuro (en 2014 Ghosts 
 [^3]: El benchmark MedQA es un marco de evaluación diseñado para medir el rendimiento de modelos de IA, en particular LLMs en respuesta a preguntas médicas. Normalmente con preguntas tipo test provenientes de exámenes de certificación médica como el United States Medical Licensing Examination (USMLE), donde se requiere un conocimiento profundo del dominio para responder correctamente.
 [^4]: https://x.com/DeryaTR_/status/1834630356286558336
 [^5]: https://www.nber.org/system/files/working_papers/w3210/w3210.pdf
+[^6]: https://www.sciencedirect.com/science/article/abs/pii/S0164070423000058
+[^7]: https://mises.org/mises-wire/jobless-recovery-coming-europe
+[^8]: https://www.theatlantic.com/technology/archive/2024/07/ai-companies-unprofitable/679278/
+[^9]: https://www.theatlantic.com/technology/archive/2024/07/thrive-ai-health-huffington-altman-faith/678984/
