@@ -26,7 +26,7 @@ _Muchos (como siempre) ya se han precipitado en expresar las ramificaciones y co
 
 Esta reflexión personal sobre la naturaleza de los modelos de inteligencia artificial procede principalmente de la idea sobre la _centralidad de la información_ de Paul Mason y precursoramente _la centralidad del conocimiento_ de Peter Drucker, que expone la principalidad del conocimiento como recurso en la sociedad contemporánea. Mason en sus libros _"Why It’s Kicking of Everywhere"_ y _"Postcapitalism: A Guide to Our Future"_ manifiesta la absurdidad de la propiedad privada intelectual y cómo la audacia de esta creencia colectiva en la propiedad eterna desembocan en la ruptura de la pared entre especulación y realidad que provocó la crisis financiera mundial.
 
-Mason delinea el concepto de "info-bienes" (_information goods_), -bienes basados en el conocimiento- y cómo estos operan sobre el principio de no-rivalidad. El principio de la no-rivalidad (_Nonrivalry_) fue amplia y claramente expuesta por primera vez por Romer[^11]:
+Mason delinea el concepto de "info-bienes" (_information goods_), -bienes basados en el conocimiento- y cómo estos operan sobre el principio de no-rivalidad. Este principio (_Nonrivalry_) fue expuesto amplia y claramente por primera vez por Romer[^11]:
 
 > Here is the key insight: ideas – designs or blueprints for doing
 something or making something – are different from nearly every other
@@ -40,19 +40,18 @@ economics.
 Ideas are not depleted by use, and it is technologically feasible for any
 number of people to use an idea simultaneously once it has been invented
 
-Esta naturaleza se refleja en la frase que decía Mark Fisher: "Si yo tengo este lápiz, ustedes no lo tienen, es una cuestión física. Si yo tengo un PDF del libro de Mason, eso no impide que ustedes lo tengan."[^10]. El _software_ opera sobre ese principio y tiene un rasgo distintivo respecto a los bienes materiales: 
+Esta naturaleza se refleja en la frase que dijo Mark Fisher: "Si yo tengo este lápiz, ustedes no lo tienen, es una cuestión física. Si yo tengo un PDF del libro de Mason, eso no impide que ustedes lo tengan."[^10]. El _software_ opera sobre ese principio y tiene un rasgo distintivo respecto a los bienes materiales: 
 
 > The third and most fundamental premise is that instructions for working with raw materials are inherently different from otheir economic goods. Once the cost of creating a new set of instructions has been incurred, the instructions can be used over and over again at no additional cost. Developing new and better instructions is equivalent to incurring a
 fixed cost. This property is taken to be the defining characteristic of technology. - Paul M. Romer -[^5]
 
-Se debe entender con lo anterior que el coste de diseñar y programar nuevo software es un coste **fijo**, que a diferencia de una fábrica que produce coches, a parte del coste de diseño original, cada nueva unidad incluye el coste de la fabricación y materias primas. Según Mason, esto introduce entonces este nuevo principio que es contradictorio con el capitalismo. Una ley fundamental de la economía -o de la economía capitalista- es que todo es escaso, pero esto evidencia que no es necesariamente debe ser así.
+Se debe entender con lo anterior que el coste de diseñar y programar nuevo software es un coste **fijo**, que a diferencia de una fábrica que produce coches, a parte del coste de diseño original, cada nueva unidad incluye el coste de la fabricación y materias primas. Según Mason, esto introduce entonces este nuevo principio que es contradictorio con el capitalismo. Una ley fundamental de la economía -o de la economía capitalista- es que todo es escaso, pero esto evidencia que no necesariamente debe ser así.
 
-A esto, el info-capitalismo responde declarando ilegal copiar ciertos tipos de datos. Romer concluyó que las industrias impulsadas por la propiedad intelectual y la información como el software y la tecnología, suelen requerir fuertes incentivos para estimular una inversión significativa en innovación; ya que la introducción de nuevas ideas/diseños pronto se extiende al resto y no permiten tener una ventaja competitiva a largo plazo, llevando a formas de control monopolístico:
+Romer concluyó que las industrias impulsadas por la propiedad intelectual y la información como el software y la tecnología, suelen requerir fuertes incentivos para estimular una inversión significativa en innovación; ya que la introducción de nuevas ideas/diseños pronto se extiende al resto y no permiten tener una ventaja competitiva a largo plazo, llevando a formas de control monopolístico:
 
 > "The only practical way to get large-scale investment in new technologies — in things that are capital-intensive but information-rich — is to give some kind of monopoly power to the people who bring them to market."
 
-
-Y como ha sido habitual en gobiernos neoliberales, para mantener a flote estos mercados se diseñan -o se modifican- artefactos/procedimientos legales respaldados por la justicia estatal como formulas de patente, derechos de autor y marcas registradas para contrarrestar la naturaleza intrinseca de no-rivalidad de los info-bienes. El software, como bien inmaterial, jurídicamente se ha asimilado a una obra literaria y en consecuencia es protegida por derechos de autor y patente industriales. 
+A esto, el info-capitalismo responde declarando ilegal copiar ciertos tipos de datos. Y como ha sido habitual en gobiernos neoliberales, para mantener a flote estos mercados se diseñan -o se modifican- artefactos/procedimientos legales respaldados por la justicia estatal como formulas de patente, derechos de autor y marcas registradas para contrarrestar la naturaleza intrinseca de no-rivalidad de los info-bienes. El software, como bien inmaterial, jurídicamente se ha asimilado a una obra literaria y en consecuencia es protegida por derechos de autor y patente industriales. 
 
 Pero parece que la última ola mesiánica, _el advenimiento de la inteligencia artificial_, ha encontrado una nueva **forma de vincularse con la escasez**. Al hilo con la definición de antes, el desarrollo de modelos de IA se puede entender como "conjuntos de instrucciones que son capaces de generar sus propias instrucciones" y con esa lógica serían reproducibles para todos _ad infinitum_. Sin embargo, lo que sucede con los Large Language Models como GPT, Claude, Llama... o las IAs generativas como Midjourney, Dall-E, Sora... no es para nada como un PDF o una App; aunque un individuo tenga la arquitectura a entrenar no tiene los medios (``Datos y potencia de cálculo`` -**Data and Compute**-)  para hacerlo. Y así se vincula está tecnología informática de nuevo a lo material donde se aplica el principio de escasez. 
 
@@ -66,7 +65,15 @@ La inclusión de funciones de activación no lineales y el algoritmo de retropro
 
 A mis ojos, la tecnología ha tomado la dirección obvia de crecimineto natural haciendo uso de la disponibilidad inmediata de las gargantuescas cantidades de datos en internet (tanto corpus de texto como imágenes y vídeos). ``¿Pero no hubiera sido de mayor rendimiento económico, intentar aplicar esta tecnología primero a trabajos repetitivos y aburridos en favor a la automatización total en lugar de producir un desplazamiento de empleos en los sectores intelectuales y cognitivos (arte audiovisuales/literario/consejería legal/medicina/software...)?`` 
 
-La convicción actual -infocéntrica- de que "donde la mayor riqueza se genera es en la producción de conocimiento" da respuesta a la pregunta. No obstante, aunque la rentabilidad decreciente que muestran los negocios basados en IA frente las masivas cantidades de inversión no suponen un obstáculo para la fe ciega de los inversores y CEOs y es posible que nos estemos acercando a una burbuja.[^8],[^9]
+La convicción actual -infocéntrica- de que "donde la mayor riqueza se genera es en la producción de conocimiento" da respuesta a la pregunta. No obstante, aunque la rentabilidad decreciente que muestran los negocios basados en IA frente las masivas cantidades de inversión no suponen un obstáculo para la fe ciega de algunos inversores que y CEOs[^8],[^9]. Para otros sin embargo, el pozo de petróleo ha sido más somero de lo esperado y creen que el cambio radical prometido y el aumento de PIB hayan sido exageradas como es el caso de Daron Acemoglu, profesor del MIT. [Gen AI: Too Much Spend, Too Little Benefit](https://www.goldmansachs.com/images/migrated/insights/pages/gs-research/gen-ai--too-much-spend,-too-little-benefit-/TOM_AI%202.0_ForRedaction.pdf)[^12]:
+> <font color = "#1ce7ad"> Why are you less optimistic on AI’s potential economic impacts? </font>
+> (Based on the study of Eloundou et al and Thompson et al)  If only 23% of exposed tasks are cost effective to automate within the next ten years, this suggests that only 4.6% of all tasks will be impacted by AI. Combining this figure
+with the 27% average labor cost savings estimates from Noyand Zhang’s and Brynjolfsson et al.’s studies implies that total
+factor productivity effects within the next decade should be no more than 0.66%—and an even lower 0.53% when adjusting
+for the complexity of hard-to-learn tasks. And that figure roughly translates into a 0.9% GDP impact over the decade.
+
+No hay discusión en que los mayores avances tecnológicos han sido liderados por agencias de- o organizaciones respaldadas por el estado (Internet, nanotecnología, energía nuclear (Euratom, ITER), desarrollo de semiconductores y microchips...)-el algoritmo de búsqueda en el corazón de Google y los diseños del iPhone también-[^13]. Como bien desarrolló Mariana Mazzucato, "el sector público asume los riesgos de la innovación y el sector privado disfruta de una parte desproporcionada de los beneficios". A pesar de ello, parece no ser el caso de los últimos desarrollos en inteligencia artificial, a lo mejor por estar aún en la fase de "recoger la fruta madura al alcance de la mano". Aunque si en el mejor de los casos la arquitectura fundamental de LLM actual es capaz de seguir escalando con más datos y potencia de cálculo el suficiente tiempo antes de estancarse, de manera que permita encontrar alternativas y seguir a flote financieramente, no deberíamos esperar a ello y deberíamos empezar a tomar acciones para dirigir esta tecnología democráticamente.
+
 
 Con toda innovación tecnológica siempre se da una agilización y optimización de los procesos o una modernización de la técnica, y hasta relativamente hace poco la ola de creación de nuevas industrias y empleos seguía de cerca el bajón inicial del excedente de población y desempleo hasta la creación de nuevos mercados a raíz de las nuevas tecnologías. Pero después de una recesión la tendencia de _una "recuperación sin creación de empleo"_ (_jobless recoveries_) está más presente que nunca.
 
@@ -76,9 +83,6 @@ El caso de que después de una crisis el PIB del país se recupera -y hasta aume
 
 <font color = "green"> CAMBIAR: Autores que han escrito sobre el concepto de "_La paradoja de la productividad_" (Robert Solow, Erik Brynjolfsson, Daron Acemoglu & Pascual Restrepo) argumentan que existe un desfase temporal hasta la cosecha de los beneficios de la automatización de procesos. </font>
 
-
-<font color = "red"> <br>Analisis sobre el artículo de [GEN AI: TOO MUCH SPEND,
-TOO LITTLE BENEFIT?](https://www.goldmansachs.com/images/migrated/insights/pages/gs-research/gen-ai--too-much-spend,-too-little-benefit-/TOM_AI%202.0_ForRedaction.pdf)</font>
 
 Hasta ahora la automatización y robotización de la industria ha estado atizando el empleo de los trabajadores "_blue collar_", pero ahora -se nos acabó lo bueno, se nos acabó el chollo-,  ahora, es el turno del trabajador "_white collar_". 
 
@@ -117,10 +121,12 @@ Ya a ojos de Fisher se estaba dando una cancelación del futuro (en 2014 Ghosts 
 [^2]: https://machine-learning-made-simple.medium.com/openai-is-lying-about-o-1s-medical-diagnostic-capabilities-e5f4b4036eb8
 [^3]: El benchmark MedQA es un marco de evaluación diseñado para medir el rendimiento de modelos de IA, en particular LLMs en respuesta a preguntas médicas. Normalmente con preguntas tipo test provenientes de exámenes de certificación médica como el United States Medical Licensing Examination (USMLE), donde se requiere un conocimiento profundo del dominio para responder correctamente.
 [^4]: https://x.com/DeryaTR_/status/1834630356286558336
-[^5]: https://www.nber.org/system/files/working_papers/w3210/w3210.pdf
+[^5]: https://www.nber.org/system/files/working\_papers/w3210/w3210.pdf
 [^6]: https://www.sciencedirect.com/science/article/abs/pii/S0164070423000058
 [^7]: https://mises.org/mises-wire/jobless-recovery-coming-europe
 [^8]: https://www.theatlantic.com/technology/archive/2024/07/ai-companies-unprofitable/679278/
 [^9]: https://www.theatlantic.com/technology/archive/2024/07/thrive-ai-health-huffington-altman-faith/678984/
 [^10]: Mark Fisher en su clase de Deseo Postcapitalista.
 [^11]: https://www-leland.stanford.edu/~chadj/RomerNobel.pdf
+[^12]: https://www.goldmansachs.com/images/migrated/insights/pages/gs-research/gen-ai--too-much-spend,-too-little-benefit-/TOM\_AI%202.0\_ForRedaction.pdf
+[^13]: Mariana Mazzucato, _The Entrepreneurial State: Debunking Public vs Private Sector Myths_ (London: Anthem, 2013); Michael Hanlon, "The Golden Quarter", _Aeon Magazine_, 3 December 2014. http://digamo.free.fr/mazzucato.pdf
