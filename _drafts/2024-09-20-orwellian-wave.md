@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On emancipating AI and the looming Orwellian wave"
+title: "My rant on AI: information goods and the looming orwellian wave"
 category: blog
 author: Ortega y Gasset
 ---
@@ -63,7 +63,7 @@ La inclusión de funciones de activación no lineales y el algoritmo de retropro
 
 - _Tanto la arquitectura como los datos, ambos fruto del ingenio humano._
 
-A mis ojos, la tecnología ha tomado la dirección obvia de crecimineto natural haciendo uso de la disponibilidad inmediata de las gargantuescas cantidades de datos en internet (tanto corpus de texto como imágenes y vídeos). ``¿Pero no hubiera sido de mayor rendimiento económico, intentar aplicar esta tecnología primero a trabajos repetitivos y aburridos en favor a la automatización total en lugar de producir un desplazamiento de empleos en los sectores intelectuales y cognitivos (arte audiovisuales/literario/consejería legal/medicina/software...)?`` 
+A mis ojos, la tecnología ha tomado el camino más obvio y fácil de crecimineto haciendo uso de la disponibilidad inmediata de las gargantuescas cantidades de datos en internet (tanto corpus de texto como imágenes y vídeos). ``¿Pero no hubiera sido de mayor impacto productivo, intentar aplicar esta tecnología primero a trabajos repetitivos y aburridos en favor a la automatización total en lugar de producir un desplazamiento de empleos en los sectores intelectuales y cognitivos (arte audiovisuales/literario/consejería legal/medicina/software...)?`` 
 
 La convicción actual -infocéntrica- de que "donde la mayor riqueza se genera es en la producción de conocimiento" da respuesta a la pregunta. No obstante, aunque la rentabilidad decreciente que muestran los negocios basados en IA frente las masivas cantidades de inversión no suponen un obstáculo para la fe ciega de algunos inversores que y CEOs[^8],[^9]. Para otros sin embargo, el pozo de petróleo ha sido más somero de lo esperado y creen que el cambio radical prometido y el aumento de PIB hayan sido exageradas como es el caso de Daron Acemoglu, profesor del MIT. [Gen AI: Too Much Spend, Too Little Benefit](https://www.goldmansachs.com/images/migrated/insights/pages/gs-research/gen-ai--too-much-spend,-too-little-benefit-/TOM_AI%202.0_ForRedaction.pdf)[^12]:
 > <font color = "#1ce7ad"> Why are you less optimistic on AI’s potential economic impacts? </font>
