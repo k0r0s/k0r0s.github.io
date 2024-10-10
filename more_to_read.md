@@ -4,6 +4,7 @@ title: More to Read
 ---
 
 Great blogs to check out: 
+- [RedSails.org](https://redsails.org/)
 - [The Coded Message](https://www.thecodedmessage.com/)
 - [Happy Hour at Hippel's](https://happyhourathippels.wordpress.com)
 - [Revolting Bodies](https://revoltingbodies.com)
