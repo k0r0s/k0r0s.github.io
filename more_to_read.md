@@ -4,6 +4,7 @@ title: More to Read
 ---
 
 Great blogs to check out: 
+- [RedSails.org](https://redsails.org/)
 - [The Coded Message](https://www.thecodedmessage.com/)
 - [Happy Hour at Hippel's](https://happyhourathippels.wordpress.com)
 - [Revolting Bodies](https://revoltingbodies.com)
@@ -22,4 +23,4 @@ Book publishers I like:
     - [Caja Negra](https://cajanegraeditora.com.ar/)
     - [Materia Oscura](https://materiaoscuraeditorial.com/)
     - [Ediciones Extáticas](https://edicionesextaticas.noblogs.org/)
-    - [Anagrama](https://www.anagrama-ed.es/)
+    - [Anagrama - Cuadernos](https://www.anagrama-ed.es/coleccion/nuevos-cuadernos-anagrama)
