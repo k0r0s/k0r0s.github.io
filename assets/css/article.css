@@ -1,22 +1,42 @@
 /* Portrait */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 4) 
-  and (orientation: portrait) {
-
-}
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 4) and (orientation: portrait) {}
 
 /* Landscape */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 4) 
-  and (orientation: landscape) {
-
-}
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 4) and (orientation: landscape) {}
 
 article {
-	font-size: 13px;
+  font-size: 13px;
 }
 
+/* Basic styles for footnotes and tooltips */
+.footnote {
+  cursor: pointer;
+  text-decoration: none;
+  position: relative;
+}
+
+/* Tooltip on desktop (default) */
+.footnote:hover::after {
+  content: attr(data-footnote);
+  white-space: normal;
+  position: absolute;
+  left: 50%; /* Center horizontally */
+  transform: translateX(-50%); /* Center the tooltip */
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  z-index: 1000;
+  width: 20vw; /* Set width to 1/5th (20%) of the viewport width */
+  height: auto;
+  bottom: 200%; /* Position above the footnote */
+  max-height: 20vh; /* Limit height to 1/5th (20%) of the viewport height */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-size: 1.2em;
+  display: block;
+  overflow-y: auto; /* Add vertical scrolling if content exceeds max height */
+}
+
+/* Ensure tooltip disappears when hover ends */
+.footnote::after {
+  display: none;
+}
