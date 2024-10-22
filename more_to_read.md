@@ -24,3 +24,4 @@ Book publishers I like:
     - [Materia Oscura](https://materiaoscuraeditorial.com/)
     - [Ediciones Extáticas](https://edicionesextaticas.noblogs.org/)
     - [Anagrama - Cuadernos](https://www.anagrama-ed.es/coleccion/nuevos-cuadernos-anagrama)
+    - [contracultura.cc](https://contracultura.cc/marx-xxi/)

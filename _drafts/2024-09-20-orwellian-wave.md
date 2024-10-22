@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "My rant on AI: information goods and the looming orwellian wave"
+title: "AI Reactionarism and Orwellian Wave"
 category: blog
-author: Ortega y Gasset
+author: k0r0s
 ---
-_The algorithmic Ministry of Truth and the subtle spread of Newspeak_
-
 ### The Last Milestone on AI
 
 Recientemente, el 13 de Septiembre se publicó el modelo _OpenAI o1-preview_[^1] (el anticipado _Project Strawberry_/_Q*_) como el principio de una nueva serie de modelos capaces de "_razonar_" y resolver problemas difíciles:
@@ -14,13 +12,48 @@ Recientemente, el 13 de Septiembre se publicó el modelo _OpenAI o1-preview_[^1]
 
 Afirman que rinde similar a doctorandos en tareas complejas en ámbitos de física, química y biología; y ha aumentado significativamente en lo que ha sido el mayor defecto de estos modelos, el razonamiento lógico/matemático avanzado: 
 
-> In a qualifying exam for the International Mathematics Olympiad (IMO), GPT-4o correctly solved only 13% of problems, while the reasoning model scored 83%. Their coding abilities were evaluated in contests and reached the 89th percentile in Codeforces competitions.
+> In a qualifying exam for the International Mathematics Olympiad (IMO), GPT-4o correctly solved only 13% of problems, while the reasoning model (o1) scored 83%. Their coding abilities were evaluated in contests and reached the 89th percentile in Codeforces competitions.
 
 Asimismo en el campeonato de programación competitiva de _Codeforces_ el modelo _o1-ioi_ basado en o1 superó con creces tanto a GPT-4o como al modelo base, superando el 93% de los participantes. 
 
 Y aunque el controvertido "buen resultado" de _Strawberry/o1_ en el benchmark de _AgentClinic-MedQA_[^2][^3] para diagnóstico médico no signifique la disposición de su utilidad para casos reales en una clínica, muestra el salto cualitativo respecto a los modelos anteriores en la habilidad para contemplar problemas complejos con varios matices.
 
 _Muchos (como siempre) ya se han precipitado en expresar las ramificaciones y consecuencias de lo que supondrá el modelo para los empleos en diagnóstico médico y consejería legal[^4]; y no solo eso sino que para todo el ámbito de la ciencia e ingeniería._
+
+### Infocentrism 
+
+La inclusión de funciones de activación no lineales y el algoritmo de retropropagación (_Backpropagation_) a las redes neuronales supusieron un punto de inflexión en el desarrollo del ámbito de inteligencia artificial y dieron de nuevo un empujón a un campo de la ingeniería informática que prometía mucho pero que en ese momento estaba pasando un periodo yermo de avances. No obstante, lo que sorprendió a todo el mundo (los LLMs y las IAs generativas), fruto también de nuevas técnicas como transformers y redes convolucionales, no hubieran podido alcanzar tal embergadura y resultados si no fuera por los miles de datos recopilados de internet producto de la dádiva humana. 
+
+- _Tanto la arquitectura como los datos, ambos fruto del ingenio humano._
+
+A mis ojos, la tecnología ha tomado el camino más obvio y fácil de crecimiento, aprovechando la disponibilidad inmediata de las gargantuescas cantidades de datos en internet (tanto corpus de texto como imágenes y vídeos).
+
+Y es por eso que los LLMs y las IAs generativas han tomado el control semiótico. En contraste, no se percibe un impacto mediático tan grande en la industria manufacturera; aunque es cierto que el _machine learning_ y otras técnicas de inteligencia artificial se han aplicado a los procesos de producción para optimizar técnicas de fabricación o extracción, esto no ha supuesto un cambio tan radical. 
+
+No obstante, aunque menos visible, el impacto en la manufactura es profundo. A través de estas tecnologías, se da una <font color = "#1ce7ad">subsunción real del trabajo</font>, que implica una reestructuración completa del proceso productivo. El machine learning no solo mejora la eficiencia, sino que redefine el papel de los trabajadores, subordinándolos a sistemas que operan con un grado de autonomía cada vez mayor. Así, el capital logra un control más riguroso sobre la producción, y el trabajo humano es relegado a funciones de supervisión o mantenimiento, acelerando el desplazamiento del trabajo manual.
+
+Este fenómeno está profundamente vinculado con el surgimiento de la economía del conocimiento, en la cual el valor ya no se genera principalmente a través del trabajo físico o manual, sino a partir de la producción y manejo de conocimiento e información. La convicción actual -infocéntrica- de que "donde la mayor riqueza se genera es en la producción de conocimiento" explica que el empleo formal y estable (principalmente en la industria) esté perdiendo su lugar preeminente en la organización social y económica, limitando la forma en que las personas se pueden relacionar con el sistema productivo. En esta nueva economía, las formas de producción intensivas en mano de obra han sido desplazadas por tecnologías que demandan menos trabajadores, pero más calificados. Como resultado, la creación de valor se centra en el capital intelectual y tecnológico, mientras el trabajo tradicional pierde relevancia.
+
+### Will The Well Dry Up?
+
+No obstante, aunque la rentabilidad decreciente que muestran los negocios basados en IA frente las masivas cantidades de inversión no suponen un obstáculo para la fe ciega de algunos inversores que y CEOs[^8],[^9]. Para otros sin embargo, el pozo de petróleo ha sido más somero de lo esperado y creen que el cambio radical prometido y el aumento de PIB hayan sido exageradas como es el caso de Daron Acemoglu, profesor del MIT. [Gen AI: Too Much Spend, Too Little Benefit](https://www.goldmansachs.com/images/migrated/insights/pages/gs-research/gen-ai--too-much-spend,-too-little-benefit-/TOM_AI%202.0_ForRedaction.pdf)[^12]:
+> <font color = "#1ce7ad"> Why are you less optimistic on AI’s potential economic impacts? </font>
+> (Based on the study of Eloundou et al and Thompson et al)  If only 23% of exposed tasks are cost effective to automate within the next ten years, this suggests that only 4.6% of all tasks will be impacted by AI. Combining this figure
+with the 27% average labor cost savings estimates from Noyand Zhang’s and Brynjolfsson et al.’s studies implies that total
+factor productivity effects within the next decade should be no more than 0.66%—and an even lower 0.53% when adjusting
+for the complexity of hard-to-learn tasks. And that figure roughly translates into a 0.9% GDP impact over the decade.
+
+No hay discusión en que los mayores avances tecnológicos han sido liderados por agencias de- o organizaciones respaldadas por el estado (Internet, nanotecnología, energía nuclear (Euratom, ITER), desarrollo de semiconductores y microchips...)-el algoritmo de búsqueda en el corazón de Google y los diseños del iPhone también-[^13]. Como bien desarrolló Mariana Mazzucato, "el sector público asume los riesgos de la innovación y el sector privado disfruta de una parte desproporcionada de los beneficios". A pesar de ello, parece no ser el caso de los últimos desarrollos en inteligencia artificial, a lo mejor por estar aún en la fase de "recoger la fruta madura al alcance de la mano". 
+
+Con toda innovación tecnológica siempre se da una agilización y optimización de los procesos o una modernización de la técnica pero nunca se ha cumplido la promesa de la liberación del trabajo, y en el caso de la inteligencia artificial sigue reinando el discurso ingenuo de que "_Esta tecnología proporcionará poder ilimitado a todos_" (indiferentemente de tus ingresos/procedencia social) y la convicción de que facilitará el trabajo de columnistas, artistas, y otros trabajadores cualificados sin aumentar la tasa de explotación (lo que iría en contra de todo pronóstico).
+
+Al igual que la incorporación de el resto de tecnologías en la producción, esto deviene en el <font color = "#1ce7ad">Problema de la transformación</font> de la economía marxista. 
+Marx sostiene que el valor nuevo solo puede ser generado por el "capital variable", es decir, el trabajo humano vivo, ya que el valor de un producto se mide en función del <font color = "#1ce7ad">tiempo socialmente necesario </font> para producirlo. El "capital constante" (máquinas, infraestructura, materias primas), denominado también "trabajo muerto", únicamente transfiere parte de su valor a los productos finales, pero no crea valor nuevo. 
+
+A medida que avanza la acumulación de capital, se produce una tendencia hacia la disminución de la tasa de ganancia. Esto sucede porque la tasa de ganancia se calcula sobre la totalidad del capital invertido (capital <font color = "#1ce7ad">constante</font> y <font color = "#1ce7ad">variable</font>), y no solo sobre el capital variable. Conforme aumenta la proporción del capital constante (máquinas, algoritmos, procesos mejorados...) en relación con el capital variable (trabajo), la tasa de ganancia disminuye, incluso si la explotación del trabajo se intensifica. Esta reducción refleja una característica intrínseca del modo de producción capitalista, donde el desarrollo de la productividad del trabajo lleva a una menor participación del capital variable en la creación de valor y, por tanto, a una caída de la tasa general de ganancia.
+
+Aunque si en el mejor de los casos la arquitectura fundamental de LLM actual es capaz de seguir escalando con más datos y potencia de cálculo el suficiente tiempo antes de estancarse, de manera que permita encontrar alternativas y seguir a flote financieramente, no deberíamos esperar a ello y deberíamos empezar a construir estructuras/organizaciones para dirigir esta tecnología democráticamente.
+
 
 ### On the nature of AI models.
 
@@ -31,8 +64,8 @@ Mason delinea el concepto de "info-bienes" (_information goods_), -bienes basado
 > Here is the key insight: ideas – designs or blueprints for doing
 something or making something – are different from nearly every other
 good in that they are nonrival. Standard goods in classical economics
-are rival: as more people drive on a highway -_there is less of a highway_- or require the skills of a
-particular surgeon -_there are less surgeons available_- or use water for irrigation -_less water available_-, there are fewer of these goods to go around. This rivalry underlies the scarcity that is at the heart of
+are rival: as more people drive on a highway - <font color="#1ce7ad"> there is less of a highway </font>- or require the skills of a
+particular surgeon - <font color="#1ce7ad"> there are less surgeons available </font> - or use water for irrigation - <font color="#1ce7ad"> less water available </font> -, there are fewer of these goods to go around. This rivalry underlies the scarcity that is at the heart of
 most of economics and gives rise to the fundamental theorems of welfare
 economics. 
 
@@ -40,12 +73,12 @@ economics.
 Ideas are not depleted by use, and it is technologically feasible for any
 number of people to use an idea simultaneously once it has been invented
 
-Esta naturaleza se refleja en la frase que dijo Mark Fisher: "Si yo tengo este lápiz, ustedes no lo tienen, es una cuestión física. Si yo tengo un PDF del libro de Mason, eso no impide que ustedes lo tengan."[^10]. El _software_ opera sobre ese principio y tiene un rasgo distintivo respecto a los bienes materiales: 
+Esta naturaleza se refleja en la frase de Mark Fisher: "Si yo tengo este lápiz, ustedes no lo tienen, es una cuestión física. Si yo tengo un PDF del libro de Mason, eso no impide que ustedes lo tengan."[^10]. El _software_ opera sobre ese principio y tiene un rasgo distintivo respecto a los bienes materiales: 
 
 > The third and most fundamental premise is that instructions for working with raw materials are inherently different from otheir economic goods. Once the cost of creating a new set of instructions has been incurred, the instructions can be used over and over again at no additional cost. Developing new and better instructions is equivalent to incurring a
 fixed cost. This property is taken to be the defining characteristic of technology. - Paul M. Romer -[^5]
 
-Se debe entender con lo anterior que el coste de diseñar y programar nuevo software es un coste **fijo**, que a diferencia de una fábrica que produce coches, a parte del coste de diseño original, cada nueva unidad incluye el coste de la fabricación y materias primas. Según Mason, esto introduce entonces este nuevo principio que es contradictorio con el capitalismo. Una ley fundamental de la economía -o de la economía capitalista- es que todo es escaso, pero esto evidencia que no necesariamente debe ser así.
+Se debe entender con lo anterior que el coste de diseñar y programar nuevo software es un coste **fijo**, que a diferencia de una fábrica que produce coches, a parte del coste de diseño original, cada nueva unidad incluye el coste de la fabricación y materias primas. Según Mason, esto introduce entonces este nuevo principio que es contradictorio con el capitalismo. Una ley fundamental de la economía -o de la economía capitalista- es que todo es <font color="#1ce7ad">escaso</font>, pero esto evidencia que no necesariamente debe ser así.
 
 Romer concluyó que las industrias impulsadas por la propiedad intelectual y la información como el software y la tecnología, suelen requerir fuertes incentivos para estimular una inversión significativa en innovación; ya que la introducción de nuevas ideas/diseños pronto se extiende al resto y no permiten tener una ventaja competitiva a largo plazo, llevando a formas de control monopolístico:
 
@@ -53,61 +86,41 @@ Romer concluyó que las industrias impulsadas por la propiedad intelectual y la 
 
 A esto, el info-capitalismo responde declarando ilegal copiar ciertos tipos de datos. Y como ha sido habitual en gobiernos neoliberales, para mantener a flote estos mercados se diseñan -o se modifican- artefactos/procedimientos legales respaldados por la justicia estatal como formulas de patente, derechos de autor y marcas registradas para contrarrestar la naturaleza intrinseca de no-rivalidad de los info-bienes. El software, como bien inmaterial, jurídicamente se ha asimilado a una obra literaria y en consecuencia es protegida por derechos de autor y patente industriales. 
 
-Pero parece que la última ola mesiánica, _el advenimiento de la inteligencia artificial_, ha encontrado una nueva **forma de vincularse con la escasez**. Al hilo con la definición de antes, el desarrollo de modelos de IA se puede entender como "conjuntos de instrucciones que son capaces de generar sus propias instrucciones" y con esa lógica serían reproducibles para todos _ad infinitum_. Sin embargo, lo que sucede con los Large Language Models como GPT, Claude, Llama... o las IAs generativas como Midjourney, Dall-E, Sora... no es para nada como un PDF o una App; aunque un individuo tenga la arquitectura a entrenar no tiene los medios (``Datos y potencia de cálculo`` -**Data and Compute**-)  para hacerlo. Y así se vincula está tecnología informática de nuevo a lo material donde se aplica el principio de escasez. - es cierto que para ejecutar el _Software_ se requiere _Hardware_ y que eso ya erige una primera pared en accesibilidad y un vínculo material. Pero ese efecto es exagerado por órdenes de magnitud para esta tecnología (Si no es el sumo ejemplo del mercado).- No solo es que ahora sea imposible para un individuo entrenar localmente un modelo así, sino que también resulta virtualmente imposible para pequeños grupos de investigación. (El proceso local de inferencia también requeriría de un equipo fuera de lo ordinario con mucha memoria RAM y CPU clock alto.)
+Pero parece que la última ola mesiánica, _el advenimiento de la inteligencia artificial_, ha encontrado una nueva **forma de vincularse con la escasez**. Al hilo con la definición de antes, el desarrollo de modelos de IA se puede entender vagamente como "conjuntos de instrucciones que son capaces de generar sus propias instrucciones" y con esa lógica serían reproducibles para todos _ad infinitum_. Sin embargo, lo que sucede con los Large Language Models como GPT, Claude, Llama... o las IAs generativas como Midjourney, Dall-E, Sora... no es para nada como un PDF o una App; aunque un individuo tenga la arquitectura a entrenar no tiene los medios (<font color = "#1ce7ad">Datos y potencia de cálculo</font> -**Data and Compute**-)  para hacerlo. Y así se vincula está tecnología informática de nuevo a lo material donde se aplica el principio de escasez. - es cierto que para ejecutar el _Software_ se requiere _Hardware_ y que eso ya erige una primera pared en accesibilidad y un vínculo material. Pero ese efecto es exagerado por órdenes de magnitud para esta tecnología (Si no es el sumo ejemplo del mercado).- No solo es que ahora sea imposible para un individuo entrenar localmente un modelo así, sino que también resulta virtualmente imposible para pequeños grupos de investigación. (El proceso local de inferencia también requeriría de un equipo fuera de lo ordinario con mucha memoria RAM y CPU clock alto.)
 
-Se puede intuir la dirección que puede tomar integración de IA en vías de obtener mayor control sobre el mercado "_white collar_" - que no han temido a una fuerza como la automatización, tal y como lo fue para los empleos "_blue collar_"- desde una perspectiva **autonomista**. Según este marco, la lucha de clases es el motor central del cambio social y la forma del capital responde adaptándose para mantener su dominación; las innovaciones sobre el _capitalismo/la acumulación del capital_ son respuestas a los avances de la clase trabajadora. El capital no se limita a reprimir estas luchas, también aprende de ellas y se reconfigura para mantener su hegemonía.
-- Las huelgas obreras masivas de los años 70 que pusieron en jaque el sistema de fordista presenciaron el tránsito de la industria hacia el **postfordismo**. Alejándose de la producción en masa rígida asociada al fordismo y adoptando una mayor flexibilidad. Las fábricas se trasladaron, aumentaron los trabajos precarios, la subcontratación se volvió común y surgieron nuevas tecnologías que permitieron el trabajo a distancia y la producción fragmentada. Este cambio representó no solo una reorganización de los métodos de producción, sino también una estrategia del capital para revitalizar sus operaciones socavando el poder colectivo de los trabajadores de las fábricas y mitigando su resistencia.
-- Respecto a los movimientos contracultura, que surgieron como rechazo radical al consumismo, al autoritarismo y al capitalismo, fueron cooptadas y su simbología y valores mercantilizadas. Un claro ejemplo son la moda bohemia y la música punk-rock, que funcionaban como vectores de expresión y exploración de futuros posibles, ambas fueron absorbidas y remodeladas por la industria musical y convertidas en mainstream.
+Se puede intuir la dirección que puede tomar integración de IA en vías de obtener mayor control sobre el mercado "_white collar_" y "_petite bourgeoisie_" (mediante la acumulación primitiva) - que no han temido a una fuerza como la automatización, tal y como lo fue para los empleos "_blue collar_"- desde una perspectiva <font color = "#1ce7ad"> autonomista</font>. 
 
-La inclusión de funciones de activación no lineales y el algoritmo de retropropagación (_Backpropagation_) a las redes neuronales supusieron un punto de inflexión en el desarrollo del ámbito de inteligencia artificial y dieron de nuevo un empujón a un campo de la ingeniería informática que prometía mucho pero que en ese momento estaba pasando un periodo yermo de avances. No obstante, lo que sorprendió a todo el mundo (los LLMs y las IAs generativas), fruto también de nuevas técnicas como transformers y redes convolucionales, no hubieran podido alcanzar tal embergadura y resultados si no fuera por los miles de datos recopilados de internet producto de la dádiva humana. 
+<div id="style-sheet-modern">
+<div class="expl-class">
+Según este marco, la lucha de clases es el motor central del cambio social y la forma del capital responde adaptándose para mantener su dominación; las transformaciones sobre la forma del capitalismo son respuestas a los avances de la clase trabajadora. El capital no se limita a reprimir estas luchas, también aprende de ellas y se reconfigura para mantener su hegemonía.</div>
+</div>
 
+Las huelgas obreras masivas de los años 70 que pusieron en jaque el sistema de fordista presenciaron el tránsito de la industria hacia el <font color="#1ce7ad">postfordismo</font>. Alejándose de la producción en masa rígida asociada al fordismo y adoptando una mayor flexibilidad. Las fábricas se trasladaron, aumentaron los trabajos precarios, la subcontratación se volvió común y surgieron nuevas tecnologías que permitieron el trabajo a distancia y la producción fragmentada. Este cambio representó no solo una reorganización de los métodos de producción, sino también una estrategia del capital para revitalizar sus operaciones socavando el poder colectivo de los trabajadores de las fábricas y mitigando su resistencia.
 
-- _Tanto la arquitectura como los datos, ambos fruto del ingenio humano._
+Respecto a los movimientos contracultura, que surgieron como rechazo radical al consumismo, al autoritarismo y al capitalismo, fueron cooptadas y su simbología y valores mercantilizadas. Un claro ejemplo son la moda bohemia y la música punk-rock, que funcionaban como vectores de expresión y exploración de futuros posibles, ambas fueron absorbidas y remodeladas por la industria musical y convertidas en mainstream.
 
-A mis ojos, la tecnología ha tomado el camino más obvio y fácil de crecimineto haciendo uso de la disponibilidad inmediata de las gargantuescas cantidades de datos en internet (tanto corpus de texto como imágenes y vídeos). ``¿Pero no hubiera sido de mayor impacto productivo, intentar aplicar esta tecnología primero a trabajos repetitivos y aburridos en favor a la automatización total en lugar de producir un desplazamiento de empleos en los sectores intelectuales y cognitivos (arte audiovisuales/literario/consejería legal/medicina/software...)?`` 
-
-La convicción actual -infocéntrica- de que "donde la mayor riqueza se genera es en la producción de conocimiento" da respuesta a la pregunta. No obstante, aunque la rentabilidad decreciente que muestran los negocios basados en IA frente las masivas cantidades de inversión no suponen un obstáculo para la fe ciega de algunos inversores que y CEOs[^8],[^9]. Para otros sin embargo, el pozo de petróleo ha sido más somero de lo esperado y creen que el cambio radical prometido y el aumento de PIB hayan sido exageradas como es el caso de Daron Acemoglu, profesor del MIT. [Gen AI: Too Much Spend, Too Little Benefit](https://www.goldmansachs.com/images/migrated/insights/pages/gs-research/gen-ai--too-much-spend,-too-little-benefit-/TOM_AI%202.0_ForRedaction.pdf)[^12]:
-> <font color = "#1ce7ad"> Why are you less optimistic on AI’s potential economic impacts? </font>
-> (Based on the study of Eloundou et al and Thompson et al)  If only 23% of exposed tasks are cost effective to automate within the next ten years, this suggests that only 4.6% of all tasks will be impacted by AI. Combining this figure
-with the 27% average labor cost savings estimates from Noyand Zhang’s and Brynjolfsson et al.’s studies implies that total
-factor productivity effects within the next decade should be no more than 0.66%—and an even lower 0.53% when adjusting
-for the complexity of hard-to-learn tasks. And that figure roughly translates into a 0.9% GDP impact over the decade.
-
-No hay discusión en que los mayores avances tecnológicos han sido liderados por agencias de- o organizaciones respaldadas por el estado (Internet, nanotecnología, energía nuclear (Euratom, ITER), desarrollo de semiconductores y microchips...)-el algoritmo de búsqueda en el corazón de Google y los diseños del iPhone también-[^13]. Como bien desarrolló Mariana Mazzucato, "el sector público asume los riesgos de la innovación y el sector privado disfruta de una parte desproporcionada de los beneficios". A pesar de ello, parece no ser el caso de los últimos desarrollos en inteligencia artificial, a lo mejor por estar aún en la fase de "recoger la fruta madura al alcance de la mano". Aunque si en el mejor de los casos la arquitectura fundamental de LLM actual es capaz de seguir escalando con más datos y potencia de cálculo el suficiente tiempo antes de estancarse, de manera que permita encontrar alternativas y seguir a flote financieramente, no deberíamos esperar a ello y deberíamos empezar a tomar acciones para dirigir esta tecnología democráticamente.
-
-
-Con toda innovación tecnológica siempre se da una agilización y optimización de los procesos o una modernización de la técnica, y hasta relativamente hace poco la ola de creación de nuevas industrias y empleos seguía de cerca el bajón inicial del excedente de población y desempleo hasta la creación de nuevos mercados a raíz de las nuevas tecnologías. Pero después de una recesión la tendencia de _una "recuperación sin creación de empleo"_ (_jobless recoveries_) está más presente que nunca.
-
-> term “jobless recovery” describes an economic recovery where output recovers—and even expands—yet employment growth remains anemic. While the effects of these prolonged recoveries are significant—from increased crime to a lifetime reduction in wages—they are not well understood.[^7] 
-
-El caso de que después de una crisis el PIB del país se recupera -y hasta aumenta- mientras que el desempleo se mantiene.
-
-<font color = "green"> CAMBIAR: Autores que han escrito sobre el concepto de "_La paradoja de la productividad_" (Robert Solow, Erik Brynjolfsson, Daron Acemoglu & Pascual Restrepo) argumentan que existe un desfase temporal hasta la cosecha de los beneficios de la automatización de procesos. </font>
-
-
-Hasta ahora la automatización y robotización de la industria ha estado atizando el empleo de los trabajadores "_blue collar_", pero ahora -se nos acabó lo bueno, se nos acabó el chollo-,  ahora, es el turno del trabajador "_white collar_". 
-
-Volviendo a la pregunta de antes (relacionar con artículo de goldman sachs), se puede ``argumentar`` que la industria siempre ha tenido una actitud reaccionaria ante este tipo de cambios: 
-1. Desplazamiento de empleos y dificultad para adaptarse y adquirir nuevas abilidades para secotres que se abren con las nuevas tecnologías. 
-2. Seguridad y privacidad de la industria pesada. Miedo a la evolución de los modelos. -> siguiente sección.
+Sin elucubrar demás, se puede entender esta tendencia como parte del plan del modo de producción capitalista para ir agarrando "la sartén por el mango". 
 
 ### What kind of singularity should we expect?
 
-Hay posiciones antipódicas sobre el riesgo que supone la inteligencia artificial. Por un lado argumentando que la posibilidad de la singularidad y de la subyugación de la humanidad por inteligencias artificiales generales es inminente están autores como Roman Yampolskiy, y por el otro lado entre los autores que argumentan que esa posibillidad de sentiencia (al menos con la arquitectura y enfoque actual) es pura fantasía se encuentra Matteo Pasquinelli.
+Una de las discusiones más candentes sobre el crecimiento de los LLMs es el riesgo de la singularidad -Una inteligencia artificial General descontrolada- o más bien la posibilidad de que se de tal caso. ¿A quien no le resulta interesante o morboso los futuros distópicos que se presentan en películas como Ex-Machina, Her, Transcendence y otras novelas como __The Culture__[^14] - a lo mejor más optimista respecto a la posición del humano frente a estas IAs omniscientes llamandas __Minds__-?.
 
-Más bien la singularidad que vendrá antes el la ``crisis del lenguaje`` [Eric Sadin].
+Es desde luego, el tópico más probable de discusión; hay posiciones antipódicas sobre el riesgo que supone la inteligencia artificial. Por un lado argumentando que la posibilidad de la singularidad y de la subyugación de la humanidad por inteligencias artificiales generales es inminente están autores como Roman Yampolskiy, y por el otro lado entre los autores que argumentan que esa posibilidad de sintiencia (al menos con la arquitectura y enfoque actual) es pura fantasía, se encuentra Matteo Pasquinelli.
 
--
----
-{: data-content="work in progress"}
+En un punto y aparte de las relaciones laborales y más allá de la seguridad, es interesante (_personalmente para mí_) reflexionar sobre la relación social y vital entre humanos con esta tecnología a cerca de la deriva en la producción de conocimiento.
 
-> Paul Mason: No creo que las relaciones sociales del capitalismo puedan sobrevivir al despliegue completo de la automatización, la inteligencia artificial y el potencial de las redes digitales. Esta tecnología se rebela contra la propiedad privada. Karl Marx lo dijo en la década de 1850.
+La semilla para mi interpretación tan pesimista fue plantada por fragmentos de los libros _Realismo Capitalista_[^15] y _Los fantasmas de Mi Vida_[^16] de Mark Fisher y _Inteligencia Artificial O El Desfio Del Siglo_[^18] y _La vida Espectral_[^17] de Eric Sadin. En específico la contextualización de Fisher del "_Último Hombre_" de Nietzsche y la llamada por la crisis del lenguaje de Sadin.
 
-En la misma línea, no se puede omitir el efecto abrumador que ha supuesto y que supondrá la última ola mesiánica: la _inteligencia artifical_ o más específicamente los _Large Language Models_ como [GPT-4, Claude, Cursor, Llama, ...]. En este ámbito Sadin hace un llamamiento a considerar una ``crisis de lenguaje`` de igual manera que se hace con la crisis ecológica.
+> “This malaise, the feeling that there is nothing new, is itself nothing new of course. We find ourselves at the notorious ‘end of history’ trumpeted by Francis Fukuyama after the fall of the Berlin Wall. Fukuyama’s thesis that history has climaxed with liberal capitalism may have been widely derided, but it is accepted, even assumed, at the level of the cultural unconscious. It should be remembered, though, that even when Fukuyama advanced it, the idea that history had reached a ‘terminal beach’ was not merely triumphalist. Fukuyama warned that his radiant city would be haunted, but he thought its specters would be Nietzschean rather than Marxian. Some of Nietzsche’s most prescient pages are those in which he describes the ‘oversaturation of an age with history’. ‘It leads an age into a dangerous mood of irony in regard to itself, he wrote in Untimely Meditations, ‘and subsequently into the even more dangerous mood of cynicism’, in which ‘cosmopolitan fingering’, a detached spectatorialism, replaces engagement and involvement. This is the condition of Nietzsche’s Last Man, who has seen everything, but is decadently enfeebled precisely by this excess of (self) awareness. Fukuyama’s position is in some ways a mirror image of Fredric Jameson’s. Jameson famously claimed that postmodernism is the ‘cultural logic of late capitalism’.”
 
-### Eric Sadin buscar cita
+Y los LLMs pueden funcionar como catalizador acelerando el proceso hacia el "último hombre" de Nietzsche.
 
-Ya a ojos de Fisher se estaba dando una cancelación del futuro (en 2014 Ghosts of My Life), y la ola de IA no hace más que confirmarlo, con una generación de textos e imágenes generalista y reduccionista. (¿Porque generalista? Con la arquitectura actual de LLMs por lo menos la secuencia de palabras se dan por la que tiene más probabilidad de seguir la anterior. Diferencia con el funcionamiento de la mente humana que menciona Sadin citando a otro filosofo -buscar esto-) 
+
+4. Uso masivo de las IAs y el entumecimiento del lenguaje.Crisis del lenguaje. (Eric Sadin)
+5. Diferencias aparentes entre el lenguaje fluctuante no linear de los humanos vs el generado reduccionista. Que consecuencias trae esto. ¿Es cuestión de tiempo y datos hasta que puedan adquirir esa característica? Futuro de Orwell. 
+
+6. La cancelación del futuro (Hauntology), exacerbación de la reutilización de media y la repetición de motivos (Peliculas, Arte, Música...), sin crear nada de cultura nuevo/que nos sorprenda por su frescura. (La pérdida de la historicidad y las épocas marcadas)
+¿ Porqué se da una cancelación del futuro ?
 
 ---
 {: data-content="Referencias"}
@@ -125,3 +138,8 @@ Ya a ojos de Fisher se estaba dando una cancelación del futuro (en 2014 Ghosts 
 [^11]: https://www-leland.stanford.edu/~chadj/RomerNobel.pdf
 [^12]: https://www.goldmansachs.com/images/migrated/insights/pages/gs-research/gen-ai--too-much-spend,-too-little-benefit-/TOM\_AI%202.0\_ForRedaction.pdf
 [^13]: Mariana Mazzucato, _The Entrepreneurial State: Debunking Public vs Private Sector Myths_ (London: Anthem, 2013); Michael Hanlon, "The Golden Quarter", _Aeon Magazine_, 3 December 2014. http://digamo.free.fr/mazzucato.pdf
+[^14]: https://es.wikipedia.org/wiki/La_Cultura
+[^15]: Fisher, Mark (2018). _Realismo capitalista. ¿No hay alternativa?._ Caja Negra.
+[^16]: Fisher, Mark (2017). _Los Fantasmas de Mi Vida_ Caja Negra.
+[^17]: Sadin, Éric (2024). _La vida espectral_. Caja Negra.
+[^18]: Sadin, Éric (2012). _La Inteligencia Artificial o El Desafio del Siglo_. Caja Negra.
