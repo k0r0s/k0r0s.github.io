@@ -25,3 +25,5 @@ Book publishers I like:
     - [Ediciones Extáticas](https://edicionesextaticas.noblogs.org/)
     - [Anagrama - Cuadernos](https://www.anagrama-ed.es/coleccion/nuevos-cuadernos-anagrama)
     - [contracultura.cc](https://contracultura.cc/marx-xxi/)
+- [Eus]:
+    - [Katakrak](https://katakrak.net/cas/editorial)
