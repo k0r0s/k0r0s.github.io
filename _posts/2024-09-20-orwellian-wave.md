@@ -20,7 +20,7 @@ Y aunque el controvertido "buen resultado" de _Strawberry/o1_ en el benchmark de
 
 _Muchos (como siempre) ya se han precipitado en expresar las ramificaciones y consecuencias de lo que supondrá el modelo para los empleos en diagnóstico médico y consejería legal[^4]; y no solo eso sino que para todo el ámbito de la ciencia e ingeniería._
 
-Ante este nuevo modelo, vuelve a estar más que vigente el artículo [Artisanal Intelligence: What’s the Deal with “AI” Art? (2023)](https://redsails.org/artisanal-intelligence/) de Pol Clarisson. No voy a presentaré nada nuevo sobre lo que lo hace ya se habla en el artículo, pero quiero añadir alguna profundización y un par de puntos tangenciales que ayudan a completar el análisis. Recomiendo encarecidamente su lectura.
+Ante este nuevo modelo, vuelve a estar más que vigente el artículo [Artisanal Intelligence: What’s the Deal with “AI” Art? (2023)](https://redsails.org/artisanal-intelligence/) de Pol Clarisson. No presentaré nada nuevo sobre lo que ya se habla en el artículo, pero quiero añadir alguna profundización y un par de puntos tangenciales que ayudan a completar el análisis. Recomiendo encarecidamente su lectura.
 
 ### Infocentrism 
 
@@ -88,7 +88,7 @@ Los movimientos contracultura, que surgieron como rechazo radical al consumismo,
 
 ### Will The Well Dry Up?
 
-Se evidencia que la rentabilidad decreciente que muestran los negocios basados en IA frente las masivas cantidades de inversión no suponen un obstáculo para la fe ciega de algunos inversores que y CEOs[^8],[^9]. Para otros sin embargo, el pozo de petróleo ha sido más somero de lo esperado y creen que el cambio radical prometido y el aumento de PIB hayan sido exageradas como es el caso de Daron Acemoglu, profesor del MIT. [Gen AI: Too Much Spend, Too Little Benefit](https://www.goldmansachs.com/images/migrated/insights/pages/gs-research/gen-ai--too-much-spend,-too-little-benefit-/TOM_AI%202.0_ForRedaction.pdf)[^12]:
+Se evidencia que la rentabilidad decreciente que muestran los negocios basados en IA frente las masivas cantidades de inversión no suponen un obstáculo para la fe ciega de algunos inversores y CEOs[^8],[^9]. Para otros sin embargo, el pozo de petróleo ha sido más somero de lo esperado y creen que el cambio radical prometido y el aumento de PIB hayan sido exageradas como es el caso de Daron Acemoglu, profesor del MIT. [Gen AI: Too Much Spend, Too Little Benefit](https://www.goldmansachs.com/images/migrated/insights/pages/gs-research/gen-ai--too-much-spend,-too-little-benefit-/TOM_AI%202.0_ForRedaction.pdf)[^12]:
 > <font color = "#1ce7ad"> Why are you less optimistic on AI’s potential economic impacts? </font>
 > (Based on the study of Eloundou et al and Thompson et al)  If only 23% of exposed tasks are cost effective to automate within the next ten years, this suggests that only 4.6% of all tasks will be impacted by AI. Combining this figure
 with the 27% average labor cost savings estimates from Noyand Zhang’s and Brynjolfsson et al.’s studies implies that total
@@ -143,7 +143,7 @@ El _Último Hombre_ es una figura cínica, distante e incapaz de acción heróic
 Sadin teme a una posible convergencia hacia una suerte de _Newspeak_ orwelliano sutil. En su novela, 1984, el _Newspeak_ está diseñado por "El Partido" del superestado totalitario de Oceania para limitar la habilidad de pensamiento crítico y la autoexpresión de las personas, la diferencia aquí es que el _Newspeak_ es un lenguaje controlado, modificado y simplificado por "El Partido", y en este caso, sin embargo, la deriva del lenguaje tendría un causante incorpóreo y disperso.
 
 
-Asimismo, lo mencionado para la prosa, se aplica al cine y la música -y a todos los medios de expresión-; para Fisher en esta era saturada por la nostalgia y la repetición de estilos y motivos pasados, el arte se estanca en un ciclo de pastiche, donde las innovaciones pierden terreno frente a la rereación de fragmentos pasados[^16]. Y a esto le encaja como un guante los modelos de inteligencia artificial generativa que producen texto/audio/imágenes/vídeo partiendo de los datos de entrenamiento previamente alimentados. 
+Asimismo, lo mencionado para la prosa, se aplica al cine y la música -y a todos los medios de expresión-; para Fisher en esta era saturada por la nostalgia y la repetición de estilos y motivos pasados, el arte se estanca en un ciclo de pastiche, donde las innovaciones pierden terreno frente a la recreación de fragmentos pasados[^16]. Y a esto le encaja como un guante los modelos de inteligencia artificial generativa que producen texto/audio/imágenes/vídeo partiendo de los datos de entrenamiento previamente alimentados. 
 
 Aunque poseen el potencial para culminar creaciones rompedoras, en el fenómeno de la "cancelación del futuro" en el contexto del capitalismo tardío, donde se tiende a promover lo comercializable, familiar y rentable, en lugar de arriesgarse con ideas originales,  <font color = "#1ce7ad">el feedback loop del pastiche</font> acecha de forma inmediata y táctil.
 
