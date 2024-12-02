@@ -25,9 +25,15 @@ A lo que Ian Hislop (editor de la revista satírica 'Private Eye') y el cómico 
 
 Mientras que Louise Mensch intenta tildar a los manifestantes de hipócritas por disfrutar de bienes y servicios producidos bajo el capitalismo, los otros panelistas rebaten lo dicho expresando que por ir en contra del sistema que te ha permitido regodearte en lujos, no se invalida tu opinión o derecho a crítica. 
 
-Para Fisher (influenciado por Herbert Marcuse y Gilles Deleuze), este tipo de discursos levantan una cuestión sobre cómo el capitalismo no solo domina a través de la explotación económica, sino también mediante el control de los deseos (fuerza clave dentro de la política y la economía); la idea de que el sistema capitalista canaliza y manipula los deseos libidinales (entendidos como impulsos vitales y de placer) para reforzar su hegemonía. 
+Para Fisher (influenciado por Herbert Marcuse y Gilles Deleuze), este tipo de discursos levantan una cuestión sobre cómo el capitalismo no solo domina a través de la explotación económica, sino también mediante el control de los deseos (fuerza clave dentro de la política y la economía); la idea de que el sistema capitalista canaliza y manipula los deseos libidinales (entendidos como impulsos vitales y de placer) para reforzar su hegemonía.
 
-En lugar de ofrecer una verdadera satisfacción, el capitalismo busca crear constantemente nuevos deseos y necesidades, atrapando a las personas en un ciclo de consumo interminable.
+Lo "Libidinal"/deseo libidinal, que proviene del término libido, introducida por Sigmund Freud en referencia al Eros de Platón, es la pulsión o energía psíquica, generalmente concebida como sexual, pero que también considera otras formas de deseo[^11]. En una definición más técnica de la obra de Carl Jung, es una energía mental indeterminada que mueve el desarrollo personal general de un individuo.
+
+Según Lyotard, es este torrente de deseos, pulsiones y formas de goce desatada por las dinámicas capitalismo, a la cual la visión histórica totalizante del marxismo no supo responder. 
+
+Para Lyotard, el marxismo se centra en la lucha de clases y en la redistribución económica, pero no aborda de manera suficiente cómo el capitalismo seduce y captura a los individuos en su maquinaria, no solo a través de necesidades materiales, sino también a través de los deseos más profundos e irracionales. 
+
+En lugar de ofrecer una verdadera satisfacción, se da una creación constante de nuevos deseos y necesidades, atrapando a las personas en un ciclo de consumo interminable. Es de esta manera en el que el capitalismo _desata y enlata_ la energía libidinal, escapándose de una posible concienciación y alojándola en ranuras de tiempo cada vez más estrechas de una cotidianidad hipersaturada.
 
 
 ### Go with the flow
@@ -80,3 +86,4 @@ No se trata simplemente de que “no se puede estar en un estado de ejercicio me
 [^8]: El concepto de la "caparazón o jaula de oro" en la obra de Eric Sadin hace referencia a la situación paradójica en la que se encuentran los seres humanos dentro de la sociedad tecnológica y digital actual. Este término sugiere que, aunque vivimos en un mundo altamente conectado y automatizado, esta misma tecnología que nos ofrece comodidad, accesibilidad y seguridad también nos encierra y limita nuestra autonomía y libertad. -Este "caparazón de oro" nos protege y nos facilita la vida, pero también nos controla y limita, convirtiéndose en una forma de alienación disfrazada de progreso.-
 [^9]: https://memoriamagica.com/yo-soy-yo-y-mis-circunstancias-jose-ortega-y-gasset/
 [^10]: La idea sobre cómo la adversidad y las dificultades impulsan la creatividad y la capacidad de adaptación ha sido planteada por varios pensadores, entre los más renombrados Jung y Nietzsche.
+[^11]: https://en.wikipedia.org/wiki/Libido
