@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Embedded Skepticism"
+title: "Scepticism without further inquiry, is just stagnation"
 category: blog
 author: k0r0s
 ---
@@ -26,7 +26,7 @@ El tertuliano de Café Marx sigue así relacionando el concepto con el sujeto y 
 >
 > Expone que la promesa de la razón es la misma que la promesa de la emancipación, que consiste en la posibilidad de superar el dominio brutal de la sustancia (el capital, en este caso) sobre los sujetos."
 
-La sustancia en este caso es el capital, que domina y somete a los sujetos bajo sus propias leyes. Las personas se convierten en instrumentos del capital, en lugar de ser los sujetos autónomos de sus vidas. Deberá ser la razón recuperada que desmigará la sustancia y liberará a los seres humanos de la falsedad.
+La sustancia en este caso es el capital, que domina y somete a los sujetos bajo sus propias leyes. Las personas se convierten en instrumentos del capital, en lugar de ser los sujetos autónomos de sus vidas. Deberá ser la razón recuperada que desmigará la sustancia y liberará a los seres humanos de la obstrucción.
 
 Por ende, el proletariado, la clase trabajadora obligada a vender su fuerza de trabajo, encarna la posibilidad de redimir la razón, porque al ser el sujeto directamente oprimido por el sistema, integra en sí mismo el interés inherente de abolirlo y crear una sociedad sin clases.
 
