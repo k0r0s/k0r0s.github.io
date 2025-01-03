@@ -10,9 +10,10 @@ Great blogs to check out:
 - [Revolting Bodies](https://revoltingbodies.com)
 - [Split Infinities](https://splitinfinities.substack.com/)
 - [Xenogothic](https://xenogothic.com/)
+- [K-PUNK](https://k-punk.org/)
 
 
-Book publishers I like: 
+publishers and newspapers: 
 - [Eng]:
     - [Urbanomic](https://www.urbanomic.com/)
     - [Repeater Books](https://repeaterbooks.com/books/)
@@ -25,5 +26,8 @@ Book publishers I like:
     - [Ediciones Extáticas](https://edicionesextaticas.noblogs.org/)
     - [Anagrama - Cuadernos](https://www.anagrama-ed.es/coleccion/nuevos-cuadernos-anagrama)
     - [contracultura.cc](https://contracultura.cc/marx-xxi/)
+    - [Diario Socialista](https://diariosocialista.net/)
 - [Eus]:
     - [Katakrak](https://katakrak.net/cas/editorial)
+    - [Ekida](https://ekida.eus/category/editoriala/)
+    - [Gedar](https://gedar.eus/)

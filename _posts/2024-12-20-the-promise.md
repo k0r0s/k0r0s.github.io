@@ -16,7 +16,7 @@ Mediante las categorías que emplea Marx (<font color = "#1ce7ad">mercancía, ca
 
 Son los intereses generados en la burguesía como mecanismo, lo que lleva a naturalizar[^2] las propias categorías del capitalismo como sustancia[^1]. 
 
-Las relaciones sociales del capitalismo, como el trabajo asalariado o la propiedad privada, no son universales. Surgieron en un contexto histórico específico y podrían desaparecer con la transformación social. _La fetichización de la mercancía_ que describe _Marx_ es el fenómeno que produce la ilusión del valor intrínseco o natural a las mercancías, cuando en realidad ese valor proviene del trabajo humano. 
+Las relaciones sociales del capitalismo, como el trabajo asalariado o la propiedad privada, no son universales. Surgieron en un contexto histórico específico y podrían desaparecer con la transformación social. _La fetichización de la mercancía_ que describe _Marx_ es el fenómeno que produce la ilusión del valor intrínseco o natural a las mercancías, cuando en realidad ese valor proviene del trabajo humano. Como decía Marx:
 
 > las mercancías son,  ante  todo,  diferentes  en  cuanto  a  la  cualidad;  como  valores  de  cambio  sólo  pueden  diferir  por  su  cantidad, y no contienen, por consiguiente, ni un solo átomo de valor de uso [^3]
 
