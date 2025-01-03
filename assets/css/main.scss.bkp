@@ -1,0 +1,56 @@
+---
+---
+
+@import "no-style-please";
+
+$link-color: #1ce7ad;
+$visited-link-color: #19c4ac;
+$hover-link-color: #000000;
+$selected-link-color: #00d57e;
+
+@import url(https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css);
+code { 
+	font-family: 'Fira Code', monospace;
+	font-weight: 400;
+    	text-align: left;
+}
+
+@supports (font-variation-settings: normal) {
+  code { font-family: 'Fira Code VF', monospace; }
+}
+ 
+*:target { 
+	background: darkgray; 
+}
+
+pre {
+    text-align: center;
+    font-size: 16px;
+    font-size: 1vw;
+}
+
+.responsive {
+	max-width: 100%;
+	height: auto
+}
+/* unvisited link */
+a:link {
+  color: $link-color;
+}
+
+/* visited link */
+a:visited {
+  color: $visited-link-color;
+}
+
+/* mouse over link */
+a:hover {
+  color: $hover-link-color;
+}
+
+/* selected link */
+a:active {
+  color: $selected-link-color;
+}
+
+
